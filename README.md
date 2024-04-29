@@ -18,3 +18,5 @@ For more on WaPOR applications check out these other courses:
 [Water Productivity in Practice](https://ocw.un-ihe.org/course/view.php?id=153) provides more information about the concept of water productivity and ways to improve it
 
 [Water Accounting and Auditing](https://ocw.un-ihe.org/course/view.php?id=194) provides more information about the concepts of water accounting and auditing and tools how to generate water accounts
+
+![](images/WaPOR_variables_naming_convention.jpg)
