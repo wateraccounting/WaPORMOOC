@@ -19,4 +19,4 @@ For more on WaPOR applications check out these other courses:
 
 [Water Accounting and Auditing](https://ocw.un-ihe.org/course/view.php?id=194) provides more information about the concepts of water accounting and auditing and tools how to generate water accounts
 
-![](images/WaPOR_variables_naming_convention.jpg)
+![](WaPOR_variables_naming_convention.jpg)
