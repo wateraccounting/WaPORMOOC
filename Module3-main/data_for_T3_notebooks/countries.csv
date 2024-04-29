@@ -1,0 +1,176 @@
+iso_a3,name,pop_est,gdp_md_est,continent
+FJI,Fiji,920938,8374.0,Oceania
+TZA,Tanzania,53950935,150600.0,Africa
+ESH,W. Sahara,603253,906.5,Africa
+CAN,Canada,35623680,1674000.0,North America
+USA,United States of America,326625791,18560000.0,North America
+KAZ,Kazakhstan,18556698,460700.0,Asia
+UZB,Uzbekistan,29748859,202300.0,Asia
+PNG,Papua New Guinea,6909701,28020.0,Oceania
+IDN,Indonesia,260580739,3028000.0,Asia
+ARG,Argentina,44293293,879400.0,South America
+CHL,Chile,17789267,436100.0,South America
+COD,Dem. Rep. Congo,83301151,66010.0,Africa
+SOM,Somalia,7531386,4719.0,Africa
+KEN,Kenya,47615739,152700.0,Africa
+SDN,Sudan,37345935,176300.0,Africa
+TCD,Chad,12075985,30590.0,Africa
+HTI,Haiti,10646714,19340.0,North America
+DOM,Dominican Rep.,10734247,161900.0,North America
+RUS,Russia,142257519,3745000.0,Europe
+BHS,Bahamas,329988,9066.0,North America
+FLK,Falkland Is.,2931,281.8,South America
+-99,Norway,5320045,364700.0,Europe
+GRL,Greenland,57713,2173.0,North America
+TLS,Timor-Leste,1291358,4975.0,Asia
+ZAF,South Africa,54841552,739100.0,Africa
+LSO,Lesotho,1958042,6019.0,Africa
+MEX,Mexico,124574795,2307000.0,North America
+URY,Uruguay,3360148,73250.0,South America
+BRA,Brazil,207353391,3081000.0,South America
+BOL,Bolivia,11138234,78350.0,South America
+PER,Peru,31036656,410400.0,South America
+COL,Colombia,47698524,688000.0,South America
+PAN,Panama,3753142,93120.0,North America
+CRI,Costa Rica,4930258,79260.0,North America
+NIC,Nicaragua,6025951,33550.0,North America
+HND,Honduras,9038741,43190.0,North America
+SLV,El Salvador,6172011,54790.0,North America
+GTM,Guatemala,15460732,131800.0,North America
+BLZ,Belize,360346,3088.0,North America
+VEN,Venezuela,31304016,468600.0,South America
+GUY,Guyana,737718,6093.0,South America
+SUR,Suriname,591919,8547.0,South America
+-99,France,67106161,2699000.0,Europe
+ECU,Ecuador,16290913,182400.0,South America
+PRI,Puerto Rico,3351827,131000.0,North America
+JAM,Jamaica,2990561,25390.0,North America
+CUB,Cuba,11147407,132900.0,North America
+ZWE,Zimbabwe,13805084,28330.0,Africa
+BWA,Botswana,2214858,35900.0,Africa
+NAM,Namibia,2484780,25990.0,Africa
+SEN,Senegal,14668522,39720.0,Africa
+MLI,Mali,17885245,38090.0,Africa
+MRT,Mauritania,3758571,16710.0,Africa
+BEN,Benin,11038805,24310.0,Africa
+NER,Niger,19245344,20150.0,Africa
+NGA,Nigeria,190632261,1089000.0,Africa
+CMR,Cameroon,24994885,77240.0,Africa
+TGO,Togo,7965055,11610.0,Africa
+GHA,Ghana,27499924,120800.0,Africa
+CIV,Côte d'Ivoire,24184810,87120.0,Africa
+GIN,Guinea,12413867,16080.0,Africa
+GNB,Guinea-Bissau,1792338,2851.0,Africa
+LBR,Liberia,4689021,3881.0,Africa
+SLE,Sierra Leone,6163195,10640.0,Africa
+BFA,Burkina Faso,20107509,32990.0,Africa
+CAF,Central African Rep.,5625118,3206.0,Africa
+COG,Congo,4954674,30270.0,Africa
+GAB,Gabon,1772255,35980.0,Africa
+GNQ,Eq. Guinea,778358,31770.0,Africa
+ZMB,Zambia,15972000,65170.0,Africa
+MWI,Malawi,19196246,21200.0,Africa
+MOZ,Mozambique,26573706,35010.0,Africa
+SWZ,eSwatini,1467152,11060.0,Africa
+AGO,Angola,29310273,189000.0,Africa
+BDI,Burundi,11466756,7892.0,Africa
+ISR,Israel,8299706,297000.0,Asia
+LBN,Lebanon,6229794,85160.0,Asia
+MDG,Madagascar,25054161,36860.0,Africa
+PSE,Palestine,4543126,21220.77,Asia
+GMB,Gambia,2051363,3387.0,Africa
+TUN,Tunisia,11403800,130800.0,Africa
+DZA,Algeria,40969443,609400.0,Africa
+JOR,Jordan,10248069,86190.0,Asia
+ARE,United Arab Emirates,6072475,667200.0,Asia
+QAT,Qatar,2314307,334500.0,Asia
+KWT,Kuwait,2875422,301100.0,Asia
+IRQ,Iraq,39192111,596700.0,Asia
+OMN,Oman,3424386,173100.0,Asia
+VUT,Vanuatu,282814,723.0,Oceania
+KHM,Cambodia,16204486,58940.0,Asia
+THA,Thailand,68414135,1161000.0,Asia
+LAO,Laos,7126706,40960.0,Asia
+MMR,Myanmar,55123814,311100.0,Asia
+VNM,Vietnam,96160163,594900.0,Asia
+PRK,North Korea,25248140,40000.0,Asia
+KOR,South Korea,51181299,1929000.0,Asia
+MNG,Mongolia,3068243,37000.0,Asia
+IND,India,1281935911,8721000.0,Asia
+BGD,Bangladesh,157826578,628400.0,Asia
+BTN,Bhutan,758288,6432.0,Asia
+NPL,Nepal,29384297,71520.0,Asia
+PAK,Pakistan,204924861,988200.0,Asia
+AFG,Afghanistan,34124811,64080.0,Asia
+TJK,Tajikistan,8468555,25810.0,Asia
+KGZ,Kyrgyzstan,5789122,21010.0,Asia
+TKM,Turkmenistan,5351277,94720.0,Asia
+IRN,Iran,82021564,1459000.0,Asia
+SYR,Syria,18028549,50280.0,Asia
+ARM,Armenia,3045191,26300.0,Asia
+SWE,Sweden,9960487,498100.0,Europe
+BLR,Belarus,9549747,165400.0,Europe
+UKR,Ukraine,44033874,352600.0,Europe
+POL,Poland,38476269,1052000.0,Europe
+AUT,Austria,8754413,416600.0,Europe
+HUN,Hungary,9850845,267600.0,Europe
+MDA,Moldova,3474121,18540.0,Europe
+ROU,Romania,21529967,441000.0,Europe
+LTU,Lithuania,2823859,85620.0,Europe
+LVA,Latvia,1944643,50650.0,Europe
+EST,Estonia,1251581,38700.0,Europe
+DEU,Germany,80594017,3979000.0,Europe
+BGR,Bulgaria,7101510,143100.0,Europe
+GRC,Greece,10768477,290500.0,Europe
+TUR,Turkey,80845215,1670000.0,Asia
+ALB,Albania,3047987,33900.0,Europe
+HRV,Croatia,4292095,94240.0,Europe
+CHE,Switzerland,8236303,496300.0,Europe
+LUX,Luxembourg,594130,58740.0,Europe
+BEL,Belgium,11491346,508600.0,Europe
+NLD,Netherlands,17084719,870800.0,Europe
+PRT,Portugal,10839514,297100.0,Europe
+ESP,Spain,48958159,1690000.0,Europe
+IRL,Ireland,5011102,322000.0,Europe
+NCL,New Caledonia,279070,10770.0,Oceania
+SLB,Solomon Is.,647581,1198.0,Oceania
+NZL,New Zealand,4510327,174800.0,Oceania
+AUS,Australia,23232413,1189000.0,Oceania
+LKA,Sri Lanka,22409381,236700.0,Asia
+CHN,China,1379302771,21140000.0,Asia
+TWN,Taiwan,23508428,1127000.0,Asia
+ITA,Italy,62137802,2221000.0,Europe
+DNK,Denmark,5605948,264800.0,Europe
+GBR,United Kingdom,64769452,2788000.0,Europe
+ISL,Iceland,339747,16150.0,Europe
+AZE,Azerbaijan,9961396,167900.0,Asia
+GEO,Georgia,4926330,37270.0,Asia
+PHL,Philippines,104256076,801900.0,Asia
+MYS,Malaysia,31381992,863000.0,Asia
+BRN,Brunei,443593,33730.0,Asia
+SVN,Slovenia,1972126,68350.0,Europe
+FIN,Finland,5491218,224137.0,Europe
+SVK,Slovakia,5445829,168800.0,Europe
+CZE,Czechia,10674723,350900.0,Europe
+ERI,Eritrea,5918919,9169.0,Africa
+JPN,Japan,126451398,4932000.0,Asia
+PRY,Paraguay,6943739,64670.0,South America
+YEM,Yemen,28036829,73450.0,Asia
+SAU,Saudi Arabia,28571770,1731000.0,Asia
+-99,N. Cyprus,265100,3600.0,Asia
+CYP,Cyprus,1221549,29260.0,Asia
+MAR,Morocco,33986655,282800.0,Africa
+EGY,Egypt,97041072,1105000.0,Africa
+LBY,Libya,6653210,90890.0,Africa
+ETH,Ethiopia,105350020,174700.0,Africa
+DJI,Djibouti,865267,3345.0,Africa
+-99,Somaliland,3500000,12250.0,Africa
+UGA,Uganda,39570125,84930.0,Africa
+RWA,Rwanda,11901484,21970.0,Africa
+BIH,Bosnia and Herz.,3856181,42530.0,Europe
+MKD,Macedonia,2103721,29520.0,Europe
+SRB,Serbia,7111024,101800.0,Europe
+MNE,Montenegro,642550,10610.0,Europe
+-99,Kosovo,1895250,18490.0,Europe
+TTO,Trinidad and Tobago,1218208,43570.0,North America
+SSD,S. Sudan,13026129,20880.0,Africa
