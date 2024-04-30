@@ -11,10 +11,10 @@ For more information on WaPOR can be found [here](https://www.fao.org/in-action/
 
 For more on WaPOR applications check out these other courses:
 
-[Water Accounting and Water Productivity using WaPOR](https://ocw.un-ihe.org/course/view.php?id=92) (module 2 and 3) provides additional materials on how to implement water accounting and water productivity analyses using the WaPOR data (also available in [French](https://ocw.un-ihe.org/course/view.php?id=117) and [Arabic](https://ocw.un-ihe.org/course/view.php?id=118)
+[Water Accounting and Water Productivity using WaPOR](https://ocw.un-ihe.org/course/view.php?id=92) (module 2 and 3) provides additional materials on how to implement water accounting and water productivity analyses using the WaPOR data (also available in [French](https://ocw.un-ihe.org/course/view.php?id=117) and [Arabic](https://ocw.un-ihe.org/course/view.php?id=118))
 
 [WaPOR Concepts and Validation](https://ocw.un-ihe.org/course/view.php?id=214) provides more information regarding the concepts used to create the WaPOR data, as well as provide examples on how to validate the WaPOR data.
 
 [Water Productivity in Practice](https://ocw.un-ihe.org/course/view.php?id=153) provides more information about the concept of water productivity and ways to improve it
 
-[Water Accounting and Auditing](https://ocw.un-ihe.org/course/view.php?id=194) provides more information about the concepts of water accounting and auditing and tools how to generate water accounts (also available in [French](https://ocw.un-ihe.org/course/view.php?id=195)
+[Water Accounting and Auditing](https://ocw.un-ihe.org/course/view.php?id=194) provides more information about the concepts of water accounting and auditing and tools how to generate water accounts (also available in [French](https://ocw.un-ihe.org/course/view.php?id=195))
