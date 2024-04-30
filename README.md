@@ -9,7 +9,10 @@ This repository contains scripts that are part of two MOOCs on the [WaPOR databa
 For the first script we are utilising the [WaPORDL](https://bitbucket.org/cioapps/wapordl/src/main/) script made available by FAO.
 For more information on WaPOR can be found [here](https://www.fao.org/in-action/remote-sensing-for-water-productivity/en/)
 
-For more on WaPOR applications check out these other courses:
+This material is brought to you by the Water Accounting Team at IHE Delft Institute for Water Education
+
+** **
+**For more on WaPOR applications check out these other courses:**
 
 [Water Accounting and Water Productivity using WaPOR](https://ocw.un-ihe.org/course/view.php?id=92) (module 2 and 3) provides additional materials on how to implement water accounting and water productivity analyses using the WaPOR data (also available in [French](https://ocw.un-ihe.org/course/view.php?id=117) and [Arabic](https://ocw.un-ihe.org/course/view.php?id=118))
 
@@ -19,5 +22,5 @@ For more on WaPOR applications check out these other courses:
 
 [Water Accounting and Auditing](https://ocw.un-ihe.org/course/view.php?id=194) provides more information about the concepts of water accounting and auditing and tools how to generate water accounts (also available in [French](https://ocw.un-ihe.org/course/view.php?id=195))
 
-More courses available on the [OpenCourseWare platform](https://ocw.un-ihe.org) of [IHE Delft Institute for Water Education](https://un-ihe.org)
+More courses are available on the [OpenCourseWare platform](https://ocw.un-ihe.org) of [IHE Delft Institute for Water Education](https://un-ihe.org)
 ![image](images/OCW_IHE.JPG)
