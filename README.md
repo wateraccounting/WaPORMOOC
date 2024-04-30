@@ -18,3 +18,6 @@ For more on WaPOR applications check out these other courses:
 [Water Productivity in Practice](https://ocw.un-ihe.org/course/view.php?id=153) provides more information about the concept of water productivity and ways to improve it
 
 [Water Accounting and Auditing](https://ocw.un-ihe.org/course/view.php?id=194) provides more information about the concepts of water accounting and auditing and tools how to generate water accounts (also available in [French](https://ocw.un-ihe.org/course/view.php?id=195))
+
+More courses available on the [OpenCourseWare platform](https://ocw.un-ihe.org) of [IHE Delft Institute for Water Education](https://un-ihe.org)
+![image](images/OCW_IHE.JPG)
