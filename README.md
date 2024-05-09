@@ -23,4 +23,6 @@ This material is brought to you by the Water Accounting Team at IHE Delft Instit
 [Water Accounting and Auditing](https://ocw.un-ihe.org/course/view.php?id=194) provides more information about the concepts of water accounting and auditing and tools how to generate water accounts (also available in [French](https://ocw.un-ihe.org/course/view.php?id=195))
 
 More courses are available on the [OpenCourseWare platform](https://ocw.un-ihe.org) of [IHE Delft Institute for Water Education](https://un-ihe.org)
+Licensed under CC BY 4.0 Creative Commons
+
 ![image](images/OCW_IHE.JPG)
