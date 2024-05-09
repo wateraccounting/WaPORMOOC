@@ -4,7 +4,7 @@ This repository contains Jupyter notebooks that are part of two MOOCs on the [Wa
 
 1. Downloading WaPOR data (part of MOOC ['Introduction to WaPORv3'](https://ocw.un-ihe.org/course/view.php?id=263)) (also available in [Spanish](https://ocw.un-ihe.org/course/view.php?id=269))
 2. Introduction to Python (module 2 of MOOC ['Python for geospatial analyses using WaPOR data'](https://ocw.un-ihe.org/course/view.php?id=272))
-3. Using Python Packages for Handling Spatial Data (module 3 of MOOC ['Python for geospatial analyses using WaPOR data'](https://ocw.un-ihe.org/course/view.php?id=272))
+3. Using Python Libraries for Handling Spatial Data (module 3 of MOOC ['Python for geospatial analyses using WaPOR data'](https://ocw.un-ihe.org/course/view.php?id=272))
 
 For the first script we are utilising the [WaPORDL](https://bitbucket.org/cioapps/wapordl/src/main/) package made available by FAO.
 For more information on WaPOR can be found [here](https://www.fao.org/in-action/remote-sensing-for-water-productivity/en/)
