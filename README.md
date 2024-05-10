@@ -11,7 +11,7 @@ For more information on WaPOR can be found [here](https://www.fao.org/in-action/
 
 This material is brought to you by the Water Accounting Team at IHE Delft Institute for Water Education
 
-Licensed under CC BY 4.0 Creative Commons
+© 2024 IHE Delft Licenced under CC BY SA Creative Commons
 
 ** **
 **For more on WaPOR applications check out these other courses:**
