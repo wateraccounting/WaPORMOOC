@@ -9,7 +9,7 @@ This repository contains Jupyter notebooks that are part of two MOOCs on the [Wa
 For the first script we are utilising the [WaPORDL](https://bitbucket.org/cioapps/wapordl/src/main/) package made available by FAO.
 For more information on WaPOR can be found [here](https://www.fao.org/in-action/remote-sensing-for-water-productivity/en/)
 
-Interested in a face to face training on pyWaPOR? Join us in the short course ['Remote Sensing for Agricultural Water Management'](https://www.un-ihe.org/courses/on-campus/remote-sensing-agricultural-water-management) organised annually by IHE Delft Institute for Water Education. Next edition: 3-14 March 2025. 
+Interested in a face to face training on [pyWaPOR](https://bitbucket.org/cioapps/pywapor/src/master/)? Join us in the short course ['Remote Sensing for Agricultural Water Management'](https://www.un-ihe.org/courses/on-campus/remote-sensing-agricultural-water-management) organised annually by IHE Delft Institute for Water Education. Next edition: 3-14 March 2025. 
 ![img](https://github.com/wateraccounting/WaPORIPA/blob/main/images/Short%20course%20RS4AWM.png)
 
 This material is brought to you by the Water Accounting Team at IHE Delft Institute for Water Education
